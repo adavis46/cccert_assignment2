@@ -45,7 +45,7 @@ Copyright does not protect facts or ideas themselves, only the expression of tho
 
 ### Check your Understanding
 
-<iframe src="https://h5p.cwr.olemiss.edu/h5p/embed/71" width="100%" height="250" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://h5p.cwr.olemiss.edu/h5p/embed/71" width="100%" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
     
 ## 2. Leveraging the Public Domain
 
@@ -145,7 +145,6 @@ Think about the following scenarios and decide whether they constitute plagiaris
 <iframe src="https://h5p.cwr.olemiss.edu/h5p/embed/75" width="100%" height="291" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 ## Module Quiz 
-
 
 ## Licenses and Attributions
 ### CC licensed content, Original
