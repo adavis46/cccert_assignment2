@@ -93,7 +93,8 @@ There are a variety of great tools available for locating works in the public do
 - [Digital Public Library of America]()
 
 ## 3. Fair Use
-![Fair Use Satire: Fair Use, Exercise your Rights in the classroom](https://k12techintegration.pressbooks.com/chapter/copyright/)
+![Fair Use Satire: Fair Use, Exercise your Rights in the classroom](/media/fairuse.jpg)
+
 Fair use is an exception or limitation to copyright law that allows you to use some copyrighted materials in particular circumstances without the copyright holder’s permission. Specifically, if used for nonprofit educational purposes, some copyrighted materials may be used for teaching, but your use 1) should directly relate to your educational goals, 2) should only utilize a relatively small portion of the work, and 3) should not negatively impact the copyright holder’s ability to profit from the work.
 
 Fair use means that copyright-restricted works can be used for educational purposes without permission under certain conditions. The four guiding principles that determine if use is fair are:
