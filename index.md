@@ -93,6 +93,7 @@ There are a variety of great tools available for locating works in the public do
 - [Digital Public Library of America]()
 
 ## 3. Fair Use
+![Fair Use Satire: Fair Use, Exercise your Rights in the classroom](https://k12techintegration.pressbooks.com/chapter/copyright/)
 Fair use is an exception or limitation to copyright law that allows you to use some copyrighted materials in particular circumstances without the copyright holder’s permission. Specifically, if used for nonprofit educational purposes, some copyrighted materials may be used for teaching, but your use 1) should directly relate to your educational goals, 2) should only utilize a relatively small portion of the work, and 3) should not negatively impact the copyright holder’s ability to profit from the work.
 
 Fair use means that copyright-restricted works can be used for educational purposes without permission under certain conditions. The four guiding principles that determine if use is fair are:
@@ -154,7 +155,10 @@ Think about the following scenarios and decide whether they constitute plagiaris
 ### CC licensed content, Specific attribution
 - Copyright Law. Provided by: Creative Commons. Located at: [https://certificates.creativecommons.org/cccertedu/chapter/2-copyright-law/](https://certificates.creativecommons.org/cccertedu/chapter/2-copyright-law/). Project: Creative Commons Certificate for Educators and Librarians. License: CC BY: Attribution
 
-- Copyright and Open Licensing: Royce Kimmons. Located at [https://k12techintegration.pressbooks.com/chapter/copyright/](https://k12techintegration.pressbooks.com/chapter/copyright/). License CC BY SA: Attribution ShareAlike
+- Copyright and Open Licensing. Provided by: Royce Kimmons. Located at [https://k12techintegration.pressbooks.com/chapter/copyright/](https://k12techintegration.pressbooks.com/chapter/copyright/). License CC BY SA: Attribution ShareAlike
+
+### Public Domain contnet, Specific attribution
+- Fair Use Violation Satire. Provided by: ∑ssarege∑. Located at [https://commons.wikimedia.org/wiki/Category:Copyright_tag_related_images#/media/File:FairUseViolationSatire.jpg](https://commons.wikimedia.org/wiki/Category:Copyright_tag_related_images#/media/File:FairUseViolationSatire.jpg)
 
 ---------------
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
