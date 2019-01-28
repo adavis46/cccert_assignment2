@@ -45,7 +45,7 @@ Copyright does not protect facts or ideas themselves, only the expression of tho
 
 ### Check your Understanding
 
-<iframe src="https://h5p.cwr.olemiss.edu/h5p/embed/71" width="688" height="399" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://h5p.cwr.olemiss.edu/h5p/embed/71" width="100%" height="250" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
     
 ## 2. Leveraging the Public Domain
 
@@ -79,7 +79,7 @@ Works in the public domain have no barriers to use. You can incorporate these wo
 
 > Go to the [Internet Archive](https://archive.org/) and find a good video of a speech to use. Then, write a 100-word description of how you would creative an interactive video to use in your Public Speaking class. Be sure to include a link to the original video! 
 
-<iframe src="https://h5p.cwr.olemiss.edu/h5p/embed/72" width="688" height="365" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://h5p.cwr.olemiss.edu/h5p/embed/72" width="100%" height="365" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 It's important to remember that a work that is in the public domain for purposes of copyright law may still be subject to other intellectual property restrictions. For example, a public domain story may have a trademarked brand on the cover associated with the publisher of the book. Trademark protection is independent of copyright protection, and may still exist even though the work is in the public domain as a matter of copyright. Also, once a creator uses a public domain work to turn it into a new work, the creator will have copyright on the portions of their new work that are original to them. As an example, the creator of a film adaptation based on a public domain novel will have copyright protection over the film but not the underlying public domain novel.
 
@@ -104,7 +104,7 @@ Fair use means that copyright-restricted works can be used for educational purpo
 
 The first principle covers what you are doing with the content and whether your use aligns with the author’s intended use. Fair use only applies to uses of works that are transformative in nature. This means that your intended use must be different from the author’s intended use. Consider a novel. You can quote lines from a novel in a paper you write without permission from the novel’s author, because you are writing the paper to analyze literary elements of the novel, not to tell a story. If, however, you took those same lines and placed them in your own novel, then that would not be an example of fair use, because your intended use would be the same as the original author’s intended use.
 
-<iframe src="https://h5p.cwr.olemiss.edu/h5p/embed/73" width="688" height="421" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://h5p.cwr.olemiss.edu/h5p/embed/73" width="100%" height="421" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 The second principle gives greater flexibility in using informational or factual works than to artistic or creative works. Thus, copying a few pages from an encyclopedia is viewed as more conducive to fair use than doing the same with a detective novel, because the information’s benefit to society is readily apparent.
 
@@ -120,7 +120,7 @@ To determine if a desired use of copyright-restricted material would fall under 
 4. Impact: Does the use negatively impact the copyright holder’s ability to profit from the work? (No = Fair Use)
 
 ### Practice: Fair Use Evaluation
-<iframe src="https://h5p.cwr.olemiss.edu/h5p/embed/74" width="688" height="330" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://h5p.cwr.olemiss.edu/h5p/embed/74" width="100%" height="330" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 Fair use is a judgement call, but the call is made based on the answers to these four questions. Thus, if your answer to all four questions aligns with fair use, then your use would likely be judged as fair. If the answer to one question does not align with fair use, then your use might still be fair, but it increases the potential for it to be judged otherwise. And so forth. In many court cases, uses that met three criteria have been deemed as fair, and in others, uses that only met one or two criteria have been deemed as fair, but there is never any guarantee. In short, only a judge can determine if use is fair, but a judge would use these four guidelines in making the determination.
 
@@ -142,7 +142,7 @@ That's a bit of an oversimplification, but plagiarism does not equal copyright v
 
 Think about the following scenarios and decide whether they constitute plagiarism or copyright infringement. 
 
-<iframe src="https://h5p.cwr.olemiss.edu/h5p/embed/75" width="688" height="291" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://h5p.cwr.olemiss.edu/h5p/embed/75" width="100%" height="291" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 ## Module Quiz 
 
@@ -151,17 +151,11 @@ Think about the following scenarios and decide whether they constitute plagiaris
 ### CC licensed content, Original
 - Benefits of Open Licensing. Authored by: Andrew Davis.  Located at: [https://docs.google.com/presentation/d/1Z8bm-wL5TedDDGNBWn8FF7W3O2P3g5A4NYCUJvnID6E/edit#slide=id.g42d56e809f_1_36](https://docs.google.com/presentation/d/1Z8bm-wL5TedDDGNBWn8FF7W3O2P3g5A4NYCUJvnID6E/edit#slide=id.g42d56e809f_1_36)
 
-### CC licensed content, Shared Previously
-- 1.4 Billion Creative Commons Works. Located at: [https://stateof.creativecommons.org/](https://stateof.creativecommons.org/). License: CC-BY: Attribution 
-
-- Most Free/Least Free Licenses. Authored by: Cable Green. Located at: [https://drive.google.com/file/d/0BymYUA-4kKX-cVFtUnZPSjRDTG8/view](https://drive.google.com/file/d/0BymYUA-4kKX-cVFtUnZPSjRDTG8/view) Project: Taking OER Mainstream. License: CC BY: Attribution
 
 ### CC licensed content, Specific attribution
-- What is Creative Commons?. Provided by: Creative Commons. Located at: [https://certificates.creativecommons.org/cccertedu/chapter/1-what-is-creative-commons/](https://certificates.creativecommons.org/cccertedu/chapter/1-what-is-creative-commons/). Project: Creative Commons Certificate for Educators and Librarians. License: CC BY: Attribution
-
 - Copyright Law. Provided by: Creative Commons. Located at: [https://certificates.creativecommons.org/cccertedu/chapter/2-copyright-law/](https://certificates.creativecommons.org/cccertedu/chapter/2-copyright-law/). Project: Creative Commons Certificate for Educators and Librarians. License: CC BY: Attribution
 
-- A Shared Culture. Authored by: Jesse Dylan. Located at: [http://creativecommons.org/videos/a-shared-culture](http://creativecommons.org/videos/a-shared-culture). License: CC BY-NC-SA: Attribution-NonCommercial-ShareAlike
+- Copyright and Open Licensing: Royce Kimmons. Located at [https://k12techintegration.pressbooks.com/chapter/copyright/](https://k12techintegration.pressbooks.com/chapter/copyright/). License CC BY SA: Attribution ShareAlike
 
 ---------------
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
